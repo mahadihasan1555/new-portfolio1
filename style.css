@@ -69,6 +69,16 @@ h2{
     text-align: center;
 }
 
+.half-width2{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width2 img{
+    width: 100%;
+}
+
 
 
 
