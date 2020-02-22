@@ -7,6 +7,7 @@ h1{
 }
 h2{
     font-size: 40px;
+    color: orangered;
 }
 
 p{
@@ -19,21 +20,23 @@ p{
     width: 40%;
     float: left;
     margin-left: 5%;
-
     padding-left: 2%;
 }
 .half-width img{
     width: 100%;
 }
+
 .top-banner{
     background-image: url("images/header-bg.png");
     background-repeat: no-repeat;
 
 }
+
 section{
     height: 500px;
     padding-bottom: 150px;
 }
+
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(45deg,lightsalmon, tomato);
@@ -47,3 +50,110 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+h2{
+
+
+
+    font-size: 40px;
+    text-align: center;
+}
+
+
+.latest-work-area{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat ;
+    background-position: right;
+    
+}
+.latest-work-area h2{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+.last-area{
+    background-image: url("images/footer-bg.png");
+
+    background-repeat: no-repeat;
+    background-position: left;
+  
+}
+footer p{
+    text-align: center;
+}
+footer h2{
+    font-size: 40px;
+    color: #FF6191;
+
+}
+footer h3{
+    text-align: center;
+}
+footer h5{
+    text-align: center;
+}
+.contract-gmail{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #FF6191, tomato);
+    padding: 20px 20px;
+    margin: 100px 450px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+   
+
+}
+footer{
+    height: 500px;
+    padding-bottom: 150px;
+}
+ .copyright{
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(253, 132, 132);
+    color: white;
+    text-align: center;
+ }
+
+
+
+
+.container{
+  
+  background-color: gray;
+  margin: 10px 350px;
+  border-radius: 10px 10px;
+}
+
+.skills-html{
+
+  text-align: right;
+  padding-top: 5px;
+  padding-bottom: 5px; 
+  color: white; 
+  width: 90%; background-color: #4CAF50;
+  
+
+}
+
+.skills-css{
+
+  text-align: right;
+  padding-top: 5px;
+  padding-bottom: 5x; 
+  color: white;
+  width: 80%; background-color: #2196F3;
+
+}
+
+
+
+ 
